@@ -139,8 +139,6 @@
 					</array>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 		<dict>
 			<key>UUID</key>
@@ -269,6 +267,8 @@
 					<real>500</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -525,8 +525,8 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>-0.63671875</real>
-											<real>133.63674926757812</real>
+											<real>-1.578094482421875</real>
+											<real>177.88284301757812</real>
 										</array>
 										<array>
 											<real>32.320343017578125</real>
@@ -545,8 +545,8 @@
 											<real>103.33595275878906</real>
 										</array>
 										<array>
-											<real>17.156280517578125</real>
-											<real>112.29296875</real>
+											<real>19.43359375</real>
+											<real>0.05078125</real>
 										</array>
 										<array>
 											<real>19.41015625</real>
@@ -557,27 +557,19 @@
 									<array>
 										<array>
 											<array>
-												<real>-0.63671875</real>
-												<real>133.63674926757812</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>0.0</real>
-											</array>
-											<array>
 												<real>19.41015625</real>
 												<real>0.6367340087890625</real>
 											</array>
 											<array>
-												<real>17.156280517578125</real>
-												<real>112.29296875</real>
+												<real>19.43359375</real>
+												<real>0.05078125</real>
+											</array>
+											<array>
+												<real>34.15625</real>
+												<real>103.33595275878906</real>
 											</array>
 										</array>
 										<array>
-											<array>
-												<real>17.156280517578125</real>
-												<real>112.29296875</real>
-											</array>
 											<array>
 												<real>34.15625</real>
 												<real>103.33595275878906</real>
@@ -594,9 +586,27 @@
 												<real>32.320343017578125</real>
 												<real>179.67971801757812</real>
 											</array>
+										</array>
+										<array>
 											<array>
-												<real>-0.63671875</real>
-												<real>133.63674926757812</real>
+												<real>32.320343017578125</real>
+												<real>179.67971801757812</real>
+											</array>
+											<array>
+												<real>-1.578094482421875</real>
+												<real>177.88284301757812</real>
+											</array>
+											<array>
+												<real>0.0</real>
+												<real>0.0</real>
+											</array>
+											<array>
+												<real>19.41015625</real>
+												<real>0.6367340087890625</real>
+											</array>
+											<array>
+												<real>34.15625</real>
+												<real>103.33595275878906</real>
 											</array>
 										</array>
 									</array>
